@@ -1,4 +1,4 @@
-# vuejs_set
+# vuejs_object_change
 
 ## Project setup
 ```
